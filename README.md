@@ -5,7 +5,7 @@ Analyzed the data of 614 loan applicants & preiction of  their application ,weth
 Work flow of the project will be as per following-
 <br>
 <br>
-![image](https://github.com/Akshay3190/Loan-Prediction-by-Machine-Learning/assets/149465028/d5ae64a4-1daa-4e7f-b454-1cb191961e34)
+<img width="960" alt="work flow" src="https://github.com/Akshay3190/Loan-Prediction-by-Machine-Learning/assets/149465028/adab0353-da23-48d7-a3b1-299829986896">
 <br>
 <br>
 Libraries we used for the Processing the data-
